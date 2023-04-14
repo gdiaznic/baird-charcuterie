@@ -6,3 +6,11 @@ img:hover {
     transform: scale(1.1);
     transition: 0.5s ease;
 }
+
+ul {
+    list-style-type: none;
+}
+
+span {
+    font-weight: bold;
+}
