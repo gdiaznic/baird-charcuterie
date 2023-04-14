@@ -14,3 +14,7 @@ ul {
 span {
     font-weight: bold;
 }
+
+div.card {
+    filter: drop-shadow(1px 5px 5px #333);
+}
