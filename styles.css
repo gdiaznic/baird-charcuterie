@@ -18,3 +18,19 @@ span {
 div.card {
     filter: drop-shadow(1px 5px 5px #333);
 }
+
+#aboutus {
+    background-color: #E1D6D6;
+}
+
+img[alt="logo"] {
+    transform: scale(1);
+}
+
+#footer {
+    background-color: #E1D6D6;
+}
+
+img[alt="logo1"] {
+    height: 25vh;
+}
