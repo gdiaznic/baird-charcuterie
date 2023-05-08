@@ -47,6 +47,11 @@ div.card {
     background-color: #E1D6D6;
 }
 
+img[alt="goat"] {
+    transform: scale(1);
+    filter: drop-shadow(1px 5px 5px #333);
+}
+
 img[alt="inverted"] {
     transform: scale(1);
 }
